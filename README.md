@@ -4,10 +4,6 @@
 
 This project demonstrates the implementation of a Simple Linear Regression model using Python and the scikit-learn library. The goal is to predict scores based on hours studied using a linear regression model.
 
-## Project Structure
-
-- `simple_linear_regression.py`: The main Python script that implements the Simple Linear Regression model. It includes data loading, visualization, model training, prediction, and evaluation.
-
 ## Features
 
 - **Data Loading**: Loads dataset from a provided URL.
